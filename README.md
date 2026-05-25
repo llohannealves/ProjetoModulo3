@@ -63,6 +63,13 @@ Basicamente tentamos fugir das limitações tentando contorna-las com o que tinh
 
 ## 👥 Colaboração
 
-Descreva como o grupo organizou as tarefas e responsabilidades entre os integrantes.
+A equipe organizou o desenvolvimento do projeto de forma colaborativa, dividindo as responsabilidades entre os integrantes conforme as etapas necessárias para a construção da aplicação.
+
+As tarefas foram distribuídas da seguinte maneira:
+
+* Modelagem do fluxo: responsável pela definição das automações, estrutura do processo e funcionamento do fluxo dentro da plataforma Make.
+* Design do protótipo: responsável pela criação das interfaces, organização visual do formulário e estrutura das telas utilizadas no projeto.
+* Integração dos serviços: responsável pela conexão entre as ferramentas utilizadas, como Google Forms, Google Sheets e Gmail.
+* Documentação: responsável pela elaboração do README, requisitos do sistema, organização do repositório no GitHub e produção dos relatórios.
 
 ---
