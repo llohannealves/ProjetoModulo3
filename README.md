@@ -18,7 +18,6 @@ https://andrecelerino05.bubbleapps.io/version-test/?debug_mode=true
  - Feed mostrando as melhores ofertas do dia e que estão em alta 
    O app funciona como se fosse uma rede social,  mostrando ofertas do dia a dia, profissionais á disposição. Com intuito de ajudar as pessoas á encontrarem a melhor oferta para elas. 
 
-> Coloque os arquivos de imagem ou PDF na pasta `/docs`.
 
 ---
 
